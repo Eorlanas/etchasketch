@@ -1,0 +1,16 @@
+#maindiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.singlediv{
+    margin: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: gray;
+}
